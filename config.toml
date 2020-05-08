@@ -16,10 +16,10 @@ theme = "ananke"
     url = "/software/"
 
 
-[languages]
-  [languages.en]
-    contentDir = "content/en" # English
-  [languages.ja]
-    contentDir = "content/ja" # Japanese
-  [languages.br]
-    contentDir = "content/br" # Brazilian Portuguese
+#[languages]
+#  [languages.en]
+#    contentDir = "content/en" # English
+#  [languages.ja]
+#    contentDir = "content/ja" # Japanese
+#  [languages.br]
+#    contentDir = "content/br" # Brazilian Portuguese

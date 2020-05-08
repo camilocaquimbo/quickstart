@@ -22,5 +22,27 @@
  Ahora hago otros, sí tiene live reload el Hugo</description>
     </item>
     
+    <item>
+      <title>My second Sofware</title>
+      <link>/software/second-sofware/</link>
+      <pubDate>Mon, 04 May 2020 10:31:28 -0500</pubDate>
+      
+      <guid>/software/second-sofware/</guid>
+      <description>Hola mi segundo software fasdaf dfasd g
+ fgfgfhgfhgfhgfhgfg
+ Ahora hago otros, sí tiene live reload el Hugo</description>
+    </item>
+    
+    <item>
+      <title>My tercer Sofware</title>
+      <link>/software/thrid-sofware/</link>
+      <pubDate>Mon, 04 May 2020 10:31:28 -0500</pubDate>
+      
+      <guid>/software/thrid-sofware/</guid>
+      <description>Hola mi tercer software fasdaf dfasd g
+ fgfgfhgfhgfhgfhgfg
+ Ahora hago otros, sí tiene live reload el Hugo</description>
+    </item>
+    
   </channel>
 </rss>

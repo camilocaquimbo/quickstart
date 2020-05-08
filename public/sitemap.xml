@@ -1,19 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>br/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>ja/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-04T10:53:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sofware/my-first-sw/</loc>
+    <lastmod>2020-05-04T10:53:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sofware/</loc>
+    <lastmod>2020-05-04T10:53:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/first-sofware/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/second-sofware/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/segundo-post/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/thrid-sofware/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
+    <lastmod>2020-05-04T10:31:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

@@ -22,5 +22,16 @@
  Ahora hago otros, sí tiene live reload el Hugovv</description>
     </item>
     
+    <item>
+      <title>My segundo Post</title>
+      <link>/posts/segundo-post/</link>
+      <pubDate>Mon, 04 May 2020 10:31:28 -0500</pubDate>
+      
+      <guid>/posts/segundo-post/</guid>
+      <description>Hola mi segundo post fasdaf dfasd g
+ fgfgfhgfhgfhgfhgfg
+ Ahora hago otros, sí tiene live reload el Hugovv</description>
+    </item>
+    
   </channel>
 </rss>
