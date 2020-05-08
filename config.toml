@@ -1,3 +1,4 @@
+baseURL = ""
 languageCode = "en-us"
 title = "CAMILO My New Hugo Site"
 theme = "ananke"
@@ -8,12 +9,19 @@ theme = "ananke"
     url = "/" #URL address
 [[menu.main]]
     name = "Blog"
-    weight = 20
+    weight = 10
     url = "/posts/"
 [[menu.main]]
     name = "Software"
     weight = 20
     url = "/software/"
+[[menu.main]]
+    name = "About2"
+    weight = 30
+    url = "/abouttest/"
+
+
+
 
 
 #[languages]
