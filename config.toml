@@ -3,15 +3,15 @@ title = "CAMILO My New Hugo Site"
 theme = "ananke"
 
 [[menu.main]]
-    name = "Home" #Name in the navigation bar
+    name = "Inicio" #Name in the navigation bar
     weight = 10 #The larger the weight, the more on the right this item will be
     url = "/" #URL address
 [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     weight = 20
     url = "/posts/"
 [[menu.main]]
-    name = "Contacto"
+    name = "Software"
     weight = 20
     url = "/software/"
 
