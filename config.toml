@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "CAMILO My New Hugo Site"
 theme = "ananke"
@@ -19,8 +19,6 @@ theme = "ananke"
     name = "About2"
     weight = 30
     url = "/abouttest/"
-
-
 
 
 
