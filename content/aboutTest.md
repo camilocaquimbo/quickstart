@@ -7,6 +7,10 @@ draft: false
 
 ## About
 
+Este es el about del blog
+
+Este es un párrafo más extenso que voy a escribir como prueba para probar la actualización en **Netlify**
+
 En el menú principal tenemos esto :)
 
 > fgfgfhgfhgfhgfhgfg
