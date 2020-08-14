@@ -11,4 +11,8 @@ dfasd
 g
 > fgfgfhgfhgfhgfhgfg
 
-Ahora hago otros, sí tiene live reload el Hugovv
+Ahora hago otros, sí tiene live reload el Hugovv afsdaega 
+
+También se pude hacer con otros lkfdjsalkj
+
+MODIFIADO EL 14 DE AGOSTO 
