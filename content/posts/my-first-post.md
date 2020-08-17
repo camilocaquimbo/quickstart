@@ -11,11 +11,11 @@ dfasd
 g
 > fgfgfhgfhgfhgfhgfg
 
-Ahora hago otros, sí tiene live reload el Hugovv afsdaega 
+Ahora hago otros, sí tiene live reload el Hugovv afsdaega
 
 También se pude hacer con otros lkfdjsalkj
 
-MODIFICADO EL 14 DE AGOSTO 
+MODIFICADO EL 14 DE AGOSTO
 
 ```
 Prueba de código Python
@@ -23,6 +23,6 @@ Prueba de código Python
 var = 34
 sum = var + 65
 print
-``` 
+```
 
 ## kjk
